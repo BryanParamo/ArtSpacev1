@@ -26,7 +26,6 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             ArtSpaceTheme {
-                // A surface container using the 'background' color from the theme
                 Surface(modifier = Modifier.fillMaxSize(), color = MaterialTheme.colors.background) {
                     ArtSpaceApp()
                 }
@@ -55,10 +54,6 @@ fun ArtSpaceApp(modifier: Modifier = Modifier) {
         mutableStateOf(primerObra)
     }
 
-//    var imagenPresentada by remember {
-//        mutableStateOf(artePresentado)
-//    }
-    
     Column(
         modifier = modifier.fillMaxWidth(),
         horizontalAlignment = Alignment.CenterHorizontally
