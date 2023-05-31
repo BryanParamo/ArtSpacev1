@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="primer_titulo">Genshin Impact</string>
+    <string name="Personaje_1">Lumine y Kuki</string>
+    <string name="segundo_titulo">Genshin Impact</string>
+    <string name="Personaje_2">Lumine y Aether</string>
+    <string name="tercer_titulo">Genshin Impact</string>
+    <string name="Personaje_3">Kuki</string>
+    <string name="cuarto_titulo">Genshin Impact</string>
+    <string name="Personaje_4">Lumine y Kuki(de nuevo)</string>
+    <string name="quinto_titulo">Genshin Impact</string>
+    <string name="Personaje_5">lumine y randoms</string>
+
+</resources>
